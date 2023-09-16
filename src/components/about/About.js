@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import ME from '../assests/daniel-1.jpg'
+import ME from '../assests/ekebuisi.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FaUserShield} from 'react-icons/fa'
 import {FaFolder} from 'react-icons/fa'
@@ -37,7 +37,7 @@ const About = () => {
           </article>
         </div>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos officia, aut rem, laudantium quaerat eligendi consectetur asperiores alias blanditiis culpa reprehenderit odio aperiam provident magni sequi! Eum tenetur animi ipsam?
+        I use my passion and skills to create digital products and experience nationally and internationally.   
         </p>
         <a href="#contact" className='btn btn-primary talk'>Let's Talk</a>
       </div>

@@ -15,10 +15,25 @@ const Services = () => {
           <ul className="service__list">
             <li className='service_list-icon'><BiCheck/>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              I develop and style interactive web apps for schools, corporate organization, etc
             </p>
             </li>
             <li className='service_list-icon'><BiCheck/>
+            <p>
+              I create new brands, esign system and websites for organizations in the community
+            </p>
+            </li>
+            <li className='service_list-icon'><BiCheck/>
+            <p>
+              I develop, maintain and ship production codes for clients websites
+            </p>
+            </li>
+            <li className='service_list-icon'><BiCheck/>
+            <p>
+              I collaborate with other UI/UX designers to design the best user experience for clients
+            </p>
+            </li>
+            {/* <li className='service_list-icon'><BiCheck/>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
             </p>
@@ -32,22 +47,7 @@ const Services = () => {
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
             </p>
-            </li>
-            <li className='service_list-icon'><BiCheck/>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            </p>
-            </li>
-            <li className='service_list-icon'><BiCheck/>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            </p>
-            </li>
-            <li className='service_list-icon'><BiCheck/>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            </p>
-            </li>
+            </li> */}
           </ul>
         
       </article>
